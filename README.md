@@ -1,2 +1,3 @@
-# scratch-extension-boilerplate
-Boilerplate to kickstart creating a Scratch extension.
+# scratch-extension
+
+My awesome Scratch extension.

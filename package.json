@@ -1,0 +1,23 @@
+{
+	"name": "scratch-extension",
+	"version": "0.0.0",
+	"private": true,
+	"main": "index.js",
+	"repository": "https://github.com/Richienb/scratch-extension.git",
+	"author": "Richie Bendall <richiebendall@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"watch": "scratcher watch",
+		"build": "scratcher build",
+		"lint": "xo"
+	},
+	"devDependencies": {
+		"@types/scratch-env": "^3.0.0",
+		"eslint-config-richienb": "^0.4.2",
+		"scratcher": "^1.0.1",
+		"xo": "^0.33.0"
+	},
+	"xo": {
+		"extends": "richienb"
+	}
+}
