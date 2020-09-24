@@ -13,7 +13,7 @@
 	},
 	"devDependencies": {
 		"@types/scratch-env": "^3.0.0",
-		"eslint-config-richienb": "^0.4.2",
+		"eslint-config-richienb": "^0.5.0",
 		"scratcher": "^1.0.3",
 		"xo": "^0.33.0"
 	},
