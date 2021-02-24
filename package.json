@@ -2,7 +2,7 @@
 	"name": "scratch-extension",
 	"version": "0.0.0",
 	"private": true,
-	"main": "index.js",
+	"main": "dist/index.min.js",
 	"repository": "https://github.com/Richienb/scratch-extension.git",
 	"author": "Richie Bendall <richiebendall@gmail.com>",
 	"license": "MIT",
